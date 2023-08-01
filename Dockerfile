@@ -1,3 +1,3 @@
-FROM ubuntu
+FROM clojure
 
 RUN tail -f /dev/null
